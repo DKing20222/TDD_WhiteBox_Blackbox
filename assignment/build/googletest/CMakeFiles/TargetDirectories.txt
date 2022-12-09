@@ -1,0 +1,3 @@
+/home/DKing20222/IVS/ivs_project_1_2022/assignment/build/googletest/CMakeFiles/rebuild_cache.dir
+/home/DKing20222/IVS/ivs_project_1_2022/assignment/build/googletest/CMakeFiles/edit_cache.dir
+/home/DKing20222/IVS/ivs_project_1_2022/assignment/build/googletest/CMakeFiles/googletest.dir
